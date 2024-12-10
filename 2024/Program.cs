@@ -1,4 +1,4 @@
-﻿using CurrentDay = _2024.Day9.Day9;
+﻿using CurrentDay = _2024.Day10.Day10;
 
-CurrentDay.SolvePart1();
-CurrentDay.SolvePart2();
+new CurrentDay().SolvePart1();
+new CurrentDay().SolvePart2();
