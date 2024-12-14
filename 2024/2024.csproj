@@ -13,4 +13,8 @@
     <None Include="bin\Debug\net8.0\test" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="9.0.0" />
+  </ItemGroup>
+
 </Project>
