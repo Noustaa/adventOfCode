@@ -1,3 +1,3 @@
-﻿using CurrentDay = _2024.Day16.Day16;
+﻿using CurrentDay = _2024.Day17.Day17;
 
 new CurrentDay().Solve();
